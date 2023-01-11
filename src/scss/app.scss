@@ -62,7 +62,7 @@ html {
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
-  font-size: 0.5rem;
+  font-size: 2rem;
   border-left: 30px solid #131313;
   transform: rotate(-10deg) skewX(5deg) scale(0.8);
   box-shadow: -50px 50px 50px rgba(0, 0, 0, 0.5);
@@ -76,14 +76,14 @@ html {
 
 .book-title {
   font-weight: 600;
-  font-size: 7.5em;
+  font-size: 3em;
 }
 
 .description {
   font-weight: 100;
-  font-size: 5em;
+  font-size: 2em;
 }
 
 .copyright {
-  font-size: 7em;
+  font-size: 0.7em;
 }
